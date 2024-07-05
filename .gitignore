@@ -1,1 +1,13 @@
-bin/
+
+
+# Build directories
+build/
+dist/
+
+
+# Ignore Go modules
+go.sum
+
+# Ignore compiled objects
+*.o
+*.a
